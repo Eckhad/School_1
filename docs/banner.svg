@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="School 1. Building minds, building a nation">
+<style>.s{font-family:Georgia,'Times New Roman',serif}.i{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}.up{opacity:0;animation:up .8s cubic-bezier(.2,0,0,1) forwards}.d2{animation-delay:.3s}.d3{animation-delay:.6s}@keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}@media (prefers-reduced-motion:reduce){.up{animation:none;opacity:1}}</style>
+<rect width="1200" height="320" rx="16" fill="#fbf8f1"/>
+<rect x="72" y="86" width="64" height="6" rx="3" fill="#c0392b"/>
+<text x="72" y="170" class="s up" font-size="64" fill="#16213e" letter-spacing="-1">School 1</text>
+<text x="72" y="222" class="s up d2" font-size="28" font-style="italic" fill="#c0392b">Building minds, building a nation</text>
+<text x="72" y="266" class="i up d3" font-size="19" fill="#16213e" opacity=".75">Bilingual school website · Dar es Salaam</text>
+<circle cx="1050" cy="160" r="90" fill="none" stroke="#c0392b" stroke-width="2" opacity=".5"/><circle cx="1050" cy="160" r="52" fill="#c0392b" opacity=".9"/>
+</svg>
