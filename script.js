@@ -1,5 +1,5 @@
 /* =========================================================
-   Baobab Hill Secondary School — behavior
+   School 1 — behavior
    1. Mobile navigation toggle
    2. English / Swahili language switch
    3. Contact form validation (client-side UX only —
